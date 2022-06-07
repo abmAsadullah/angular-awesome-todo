@@ -1,5 +1,9 @@
 # AngularTodo
 
+![image](https://user-images.githubusercontent.com/29490094/172474493-ac61be87-c49f-4b09-9b25-152a7f2d278e.png)
+![Demo](https://user-images.githubusercontent.com/29490094/172477452-2c96931d-e8e6-4cc8-a4e6-e7e7e1843676.gif)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
 
 ## Development server
